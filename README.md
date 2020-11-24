@@ -38,5 +38,4 @@
 
 5. 更新脚本方法: `pip3 install cddns --upgrade`
 
-
 [0]: https://github.com/chr233/pyddns/blob/main/example.config.toml
